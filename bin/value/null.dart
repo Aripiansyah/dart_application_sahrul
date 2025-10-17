@@ -1,6 +1,6 @@
 void main() {
 
-String? nickname = null;
+String? nickname;
 
 print('Nickname: $nickname');
 

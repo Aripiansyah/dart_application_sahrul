@@ -1,6 +1,6 @@
 void main() {
 
-AddOperation add = (a, b) => a + b;
+int add(int a, int b) => a + b;
 print('Add result: ${add(5, 7)}');
 }
 
